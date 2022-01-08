@@ -8,6 +8,6 @@ Deep Learning
 Computer Vision
 Natural Language Processing
 
-## <---------------------------------Machine Learning ------------------------------->
+## <---------------------------------Machine Learning -------------------->
 ## Day 1: January 1st , 2022
 Today's Progress : Learn basics of Numpy.- [Basics of Numpy](https://medium.com/@sunils0506/basics-of-numpy-22f8225670bd)
