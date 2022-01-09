@@ -13,4 +13,5 @@ Natural Language Processing
 Today's Progress : Learn basics of Numpy.- [Basics of Numpy](https://medium.com/@sunils0506/basics-of-numpy-22f8225670bd)
 ## Day 2: January 2nd , 2022
 Today's Progress : Linear Regression with Notes
-![image](https://user-images.githubusercontent.com/68937805/148668496-4cca8b1b-f418-40bd-ba09-f4b3c39cd9d1.png)
+![image](https://user-images.githubusercontent.com/68937805/148668563-8419ad2f-889a-4fec-beba-3b7dd318d3cd.png)
+![image](https://user-images.githubusercontent.com/68937805/148668682-290ccc3a-0087-4419-9512-72bec0a079cd.png)
