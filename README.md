@@ -9,7 +9,8 @@ Computer Vision
 Natural Language Processing
 
 ## <---------------------------------Machine Learning -------------------->
-## Day 1: January 1st , 2022 [Click Here](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day01)
+## Day 1: January 1st , 2022 [![image](https://user-images.githubusercontent.com/68937805/148690938-101ad2e9-0c35-4b0e-9da1-2589ff98c2ad.png)
+](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day01)
 Today's Progress : Learn basics of Numpy.- [Basics of Numpy](https://medium.com/@sunils0506/basics-of-numpy-22f8225670bd)
 ## Day 2: January 2nd , 2022 [Click Here](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day02)
 Today's Progress : Linear Regression with Notes
