@@ -20,4 +20,4 @@ Today's Progress : Linear Regression with Notes
 Today's Progress : Logistic Regression with Notes
 
 ## Day 4: January 4th, 2022
-Today's Progress : Pandas 100 Common Commands( | Huge List Dont memorise keep the Excel Handy | )
+Today's Progress : Pandas 100 Common Commands [Huge List Dont memorise keep the Excel Handy](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/raw/main/day04/pandas-100%20Common%20Commands.xlsx)
