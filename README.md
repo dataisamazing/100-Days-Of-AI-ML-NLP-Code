@@ -18,6 +18,7 @@ Today's Progress : Linear Regression with Notes
 ![image](https://user-images.githubusercontent.com/68937805/148683963-ffbcfbb7-3a04-4a39-980a-9d2753293cce.png)
 ## Day 3: January 3rd, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day03)
 Today's Progress : Logistic Regression with Notes
-
 ## Day 4: January 4th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day04)
 Today's Progress : Pandas 100 Common Commands [Huge List Dont memorise keep the Excel Handy](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/raw/main/day04/pandas-100%20Common%20Commands.xlsx)
+## Day 5: January 5th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day05)
+Today's Progress : Understanding the Lasso(L1) and Ridge(L2) Regression.
