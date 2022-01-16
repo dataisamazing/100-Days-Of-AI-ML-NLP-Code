@@ -27,4 +27,5 @@ Today's Progress : Understanding the Lasso(L1) and Ridge(L2) Regression.
 ![image](https://user-images.githubusercontent.com/68937805/149669159-520cd443-81ca-4fa5-bc07-107827c14a7c.png)
 ## Day 6: January 6th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day06)
 Today's Progress : Understanding Accuracy,Precession,Recall,Confusion Matrix and ROC curve
-![image](https://user-images.githubusercontent.com/68937805/149671485-9d9c780f-a497-4b8a-bb67-ac898cd54b96.png)
+![image](https://user-images.githubusercontent.com/68937805/149671574-51f754f2-62fc-40a6-9100-e238606da9e4.png)
+
