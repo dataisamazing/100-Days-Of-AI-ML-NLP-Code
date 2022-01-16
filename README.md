@@ -23,3 +23,4 @@ Today's Progress : Logistic Regression with Notes
 Today's Progress : Pandas 100 Common Commands [Huge List Dont memorise keep the Excel Handy](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/raw/main/day04/pandas-100%20Common%20Commands.xlsx)
 ## Day 5: January 5th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day05)
 Today's Progress : Understanding the Lasso(L1) and Ridge(L2) Regression.
+![image](https://user-images.githubusercontent.com/68937805/149667617-97aa502d-408d-443c-8f97-27844ae39cad.png)
