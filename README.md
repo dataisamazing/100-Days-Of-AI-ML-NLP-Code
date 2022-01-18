@@ -28,10 +28,11 @@ Today's Progress : Understanding the Lasso(L1) and Ridge(L2) Regression.
 ## Day 6: January 6th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day06)
 Today's Progress : Understanding Accuracy,Precession,Recall,Confusion Matrix and ROC curve
 Let's Assume I have a trained a bot to allow only Dogs to Dog show which is standing near the entrence of the event.
-Accuracy:- Accuracy says how much my bot is capable of allowing if any new dogs come to show. As per the below result new dog as 50% chance to make it to the Dog show.
-Precision:-Precision is out of all Dog prediction how much our bot was capable of predicting, In the below case it is 57% means which means what ever has made to Dog
+
+**Accuracy**:- Accuracy says how much my bot is capable of allowing if any new dogs come to show. As per the below result new dog as 50% chance to make it to the Dog show.
+**Precision:-** Precision is out of all Dog prediction how much our bot was capable of predicting, In the below case it is 57% means which means what ever has made to Dog
 show only 57% are dog rest is something else(even house,bird and car has made it to the show)
-Recall:- Out of all dog truth how many we got it right. Our bot couldnot allow 2 dogs even though our dogs were pefect but bot missclassified then as non dog so 67% time if any
+**Recall:-** Out of all dog truth how many we got it right. Our bot couldnot allow 2 dogs even though our dogs were pefect but bot missclassified then as non dog so 67% time if any
 new dog comes chances are thre it make it to the show.
 ![image](https://user-images.githubusercontent.com/68937805/149671574-51f754f2-62fc-40a6-9100-e238606da9e4.png)
 ![image](https://user-images.githubusercontent.com/68937805/149671927-702a2074-2298-46c5-bf59-d2fd78bc978f.png)
