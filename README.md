@@ -13,6 +13,8 @@ Natural Language Processing
 Today's Progress : Learn basics of Numpy.- [Basics of Numpy](https://medium.com/@sunils0506/basics-of-numpy-22f8225670bd)
 ## Day 2: January 2nd , 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day02)
 Today's Progress : Linear Regression with Notes
+**Cost Function of Linear Regression**
+![image](https://user-images.githubusercontent.com/68937805/150059548-b5aa954e-595e-4010-911b-b68c7e71f464.png)
 ![image](https://user-images.githubusercontent.com/68937805/148668563-8419ad2f-889a-4fec-beba-3b7dd318d3cd.png)
 ![image](https://user-images.githubusercontent.com/68937805/148668682-290ccc3a-0087-4419-9512-72bec0a079cd.png)
 ![image](https://user-images.githubusercontent.com/68937805/148683963-ffbcfbb7-3a04-4a39-980a-9d2753293cce.png)
