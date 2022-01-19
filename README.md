@@ -16,7 +16,8 @@ Today's Progress : Linear Regression with Notes
 
 **Cost Function of Linear Regression**
 
-![image](https://user-images.githubusercontent.com/68937805/150059929-37aa6ac8-428a-44d7-8d24-8798c0aa2a56.png)
+![image](https://user-images.githubusercontent.com/68937805/150061578-2cd9db05-f909-4c7e-a2c6-89c44e224a45.png)
+
 ![image](https://user-images.githubusercontent.com/68937805/148668563-8419ad2f-889a-4fec-beba-3b7dd318d3cd.png)
 ![image](https://user-images.githubusercontent.com/68937805/148668682-290ccc3a-0087-4419-9512-72bec0a079cd.png)
 ![image](https://user-images.githubusercontent.com/68937805/148683963-ffbcfbb7-3a04-4a39-980a-9d2753293cce.png)
