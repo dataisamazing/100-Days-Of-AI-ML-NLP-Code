@@ -35,7 +35,7 @@ Today's Progress : Understanding the Lasso(L1) and Ridge(L2) Regression.
 ![image](https://user-images.githubusercontent.com/68937805/149667749-3010fa28-f3eb-45d8-b5de-77d48081625f.png)
 ![image](https://user-images.githubusercontent.com/68937805/149669159-520cd443-81ca-4fa5-bc07-107827c14a7c.png)
 ## Day 6: January 6th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day06)
-Today's Progress : Understanding Accuracy,Precession,Recall,Confusion Matrix and ROC curve
+Today's Progress : Understanding Accuracy,Precession,Recall
 Let's Assume I have a trained a bot to allow only Dogs to Dog show which is standing near the entrence of the event.
 
 **Accuracy**:- Accuracy says how much my bot is capable of allowing if any new dogs come to show. As per the below result new dog as 50% chance to make it to the Dog show.
@@ -48,4 +48,7 @@ new dog comes chances are thre it make it to the show.
 ![image](https://user-images.githubusercontent.com/68937805/149671574-51f754f2-62fc-40a6-9100-e238606da9e4.png)
 ![image](https://user-images.githubusercontent.com/68937805/149671927-702a2074-2298-46c5-bf59-d2fd78bc978f.png)
 
+## Day 7: January 7th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day07)
+Today's Progress : Understanding Confusion Matrix and ROC curve
+![image](https://user-images.githubusercontent.com/68937805/151691442-457135ba-bdc5-41ca-9e9f-88f4889160f8.png)
 
