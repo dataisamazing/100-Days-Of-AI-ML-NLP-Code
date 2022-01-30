@@ -49,8 +49,12 @@ new dog comes chances are thre it make it to the show.
 ![image](https://user-images.githubusercontent.com/68937805/149671927-702a2074-2298-46c5-bf59-d2fd78bc978f.png)
 
 ## Day 7: January 7th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day07)
-Today's Progress : Understanding Confusion Matrix and ROC curve
+Today's Progress : Understanding Confusion Matrix
 ![image](https://user-images.githubusercontent.com/68937805/151693586-3c21fb08-9061-480b-99e3-8c246a5d5b6a.png)
 ![image](https://user-images.githubusercontent.com/68937805/151703184-d7f90354-2a7a-4703-b33b-edf3d8507373.png)
+
+## Day 8: January 8th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day08)
+Today's Progress : Understanding ROC curve
+![image](https://user-images.githubusercontent.com/68937805/151710265-552a87eb-921e-4b91-bd51-88795877a04d.png)
 
 
