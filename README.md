@@ -60,5 +60,6 @@ Today's Progress : Understanding ROC curve
 ## Day 9: January 9th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day09)
 Today's Progress : Decision Tree
 ![image](https://user-images.githubusercontent.com/68937805/152678899-ffff20df-7b68-40f6-963e-1ddda5948835.png)
+![image](https://user-images.githubusercontent.com/68937805/152693657-cfd96dc3-1e48-4950-953d-1e0b16b01512.png)
 ![image](https://user-images.githubusercontent.com/68937805/152693493-fb7f8d83-dc21-4334-83ae-915f3142ede7.png)
 
