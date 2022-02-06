@@ -57,4 +57,7 @@ Today's Progress : Understanding Confusion Matrix
 Today's Progress : Understanding ROC curve
 ![image](https://user-images.githubusercontent.com/68937805/151710265-552a87eb-921e-4b91-bd51-88795877a04d.png)
 
+## Day 9: January 9th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day09)
+Today's Progress : Decision Tree
+![image](https://user-images.githubusercontent.com/68937805/152678899-ffff20df-7b68-40f6-963e-1ddda5948835.png)
 
