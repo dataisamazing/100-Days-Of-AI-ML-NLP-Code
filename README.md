@@ -61,5 +61,6 @@ Today's Progress : Understanding ROC curve
 Today's Progress : Decision Tree
 ![image](https://user-images.githubusercontent.com/68937805/152678899-ffff20df-7b68-40f6-963e-1ddda5948835.png)
 ![image](https://user-images.githubusercontent.com/68937805/152693657-cfd96dc3-1e48-4950-953d-1e0b16b01512.png)
-![image](https://user-images.githubusercontent.com/68937805/152693493-fb7f8d83-dc21-4334-83ae-915f3142ede7.png)
+![image](https://user-images.githubusercontent.com/68937805/152694407-2c583e75-67ba-4c95-b519-7c584f910d0d.png)
+
 
