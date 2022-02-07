@@ -1,4 +1,4 @@
- ![image](https://user-images.githubusercontent.com/68937805/152763209-fb0d8ce8-ee6c-49dd-b3a9-c8d10347bbfa.png)  ![image](https://user-images.githubusercontent.com/68937805/152763655-f0fa5682-8814-4d39-a599-8844d1f2332d.png)
+ ![image](https://user-images.githubusercontent.com/68937805/152763209-fb0d8ce8-ee6c-49dd-b3a9-c8d10347bbfa.png)--> If you have liked the work you can buy me a coffee using my mentioned UPI id-->  ![image](https://user-images.githubusercontent.com/68937805/152763655-f0fa5682-8814-4d39-a599-8844d1f2332d.png)
 
 
 # 100-Days-Of-AI-ML-NLP-Code
