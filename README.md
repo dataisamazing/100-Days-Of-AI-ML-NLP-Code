@@ -62,5 +62,8 @@ Today's Progress : Decision Tree
 ![image](https://user-images.githubusercontent.com/68937805/152678899-ffff20df-7b68-40f6-963e-1ddda5948835.png)
 ![image](https://user-images.githubusercontent.com/68937805/152693657-cfd96dc3-1e48-4950-953d-1e0b16b01512.png)
 ![image](https://user-images.githubusercontent.com/68937805/152694407-2c583e75-67ba-4c95-b519-7c584f910d0d.png)
+## Day 10: January 10th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day10)
+Today's Progress : Information Gain
+![image](https://user-images.githubusercontent.com/68937805/152720729-de3bd647-07f8-4332-81d5-bd7e17bb18ee.png)
 
 
