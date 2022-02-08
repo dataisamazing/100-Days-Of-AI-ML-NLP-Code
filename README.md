@@ -1,4 +1,3 @@
- ![image](https://user-images.githubusercontent.com/68937805/152766824-ce014178-6bf9-4210-b451-7c6e05803b09.png)
 
 # 100-Days-Of-AI-ML-NLP-Code
 
