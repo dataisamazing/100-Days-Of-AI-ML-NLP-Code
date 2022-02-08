@@ -66,5 +66,9 @@ Today's Progress : Decision Tree
 ## Day 10: January 10th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day10)
 Today's Progress : Information Gain
 ![image](https://user-images.githubusercontent.com/68937805/152720729-de3bd647-07f8-4332-81d5-bd7e17bb18ee.png)
+## Day 11: January 11th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day11)
+Today's Progress : Gini Impurity Defination & Calculation
+![image](https://user-images.githubusercontent.com/68937805/152693657-cfd96dc3-1e48-4950-953d-1e0b16b01512.png)
+![image](https://user-images.githubusercontent.com/68937805/152913807-2da032a4-741a-4f71-aea6-682da9c5c35b.png)
 
 
