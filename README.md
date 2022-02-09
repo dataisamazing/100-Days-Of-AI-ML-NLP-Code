@@ -8,6 +8,9 @@ Deep Learning
 Computer Vision
 Natural Language Processing
 
+### How to Use:- You can click on the image to open it in new tab and again clicking it will zoom the imag.For Reading materials & Python code you can click on -> (arrow) which takes you inside the folder. 
+
+
 ## <---------------------------------Machine Learning -------------------->
 ## Day 1: January 1st , 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day01)
 Today's Progress : Learn basics of Numpy.- [Basics of Numpy](https://medium.com/@sunils0506/basics-of-numpy-22f8225670bd)
