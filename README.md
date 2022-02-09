@@ -8,7 +8,7 @@ Deep Learning
 Computer Vision
 Natural Language Processing
 
-> Note: `How to Use:- You can click on the image to open it in new tab and again clicking it will zoom the image.For Reading materials & Python code you can click on -> (Blue Arrow) which takes you inside the folder. `
+> #### Note: How to Use:- You can click on the image to open it in new tab and again clicking it will zoom the image.For Reading materials & Python code you can click on -> (Blue Arrow) which takes you inside the folder.
 
 
 ## <---------------------------------Machine Learning -------------------->
