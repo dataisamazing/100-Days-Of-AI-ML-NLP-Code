@@ -76,3 +76,5 @@ Today's Progress : Gini Impurity Defination & Calculation
 ![image](https://user-images.githubusercontent.com/68937805/152913807-2da032a4-741a-4f71-aea6-682da9c5c35b.png)
 ## Day 12: January 12th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day12)
 Today's Progress : Information Gain, Entropy & Gini Computation in Python
+## Day 13: January 13th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day13)
+Today's Progress : Decision Tree Algorithm [Decision Tree Algorithm Details](https://medium.com/@sunils0506/decision-tree-types-metrics-dc9b97150f8d)
