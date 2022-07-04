@@ -89,3 +89,4 @@ image credit-devopedia
 Today's Progress : FeatureEngineering & Cross Validation Techniques
 ## Day 18: June 18th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day18)
 Today's Progress : Loss Function
+![image](https://user-images.githubusercontent.com/68937805/177142796-82575c27-fa24-4c91-b62f-9300182aa72b.png)
