@@ -1,7 +1,7 @@
 
 # 100-Days-Of-AI-ML-NLP-Code
 
-In this repository, I will upload my 100 Days ML Code which I have learned from different courses(Upgrad,Coursera, udemy, edx, udacity), different websites blogs, different tutorials from YouTube, books, and research papers. From 01-Jan-2022 till ####
+In this repository, I will upload my 100 Days ML Code which I have learned from different courses(Upgrad,Coursera, udemy, edx, udacity), different websites blogs, different tutorials from YouTube, books, and research papers. From 01-June-2022 till ####
 
 Machine Learning
 Deep Learning
@@ -12,9 +12,9 @@ Natural Language Processing
 
 
 ## <---------------------------------Machine Learning -------------------->
-## Day 1: January 1st , 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day01)
+## Day 1: June 1st , 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day01)
 Today's Progress : Learn basics of Numpy.- [Basics of Numpy](https://medium.com/@sunils0506/basics-of-numpy-22f8225670bd)
-## Day 2: January 2nd , 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day02)
+## Day 2: June 2nd , 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day02)
 Today's Progress : Linear Regression with Notes
 
 **Cost Function of Linear Regression**
@@ -24,20 +24,20 @@ Today's Progress : Linear Regression with Notes
 ![image](https://user-images.githubusercontent.com/68937805/148668563-8419ad2f-889a-4fec-beba-3b7dd318d3cd.png)
 ![image](https://user-images.githubusercontent.com/68937805/148668682-290ccc3a-0087-4419-9512-72bec0a079cd.png)
 ![image](https://user-images.githubusercontent.com/68937805/148683963-ffbcfbb7-3a04-4a39-980a-9d2753293cce.png)
-## Day 3: January 3rd, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day03)
+## Day 3: June 3rd, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day03)
 Today's Progress : Logistic Regression with Notes
 **Cost Function**
 
 ![image](https://user-images.githubusercontent.com/68937805/150245410-a85d052e-5e74-4947-98ba-b0f55ab81207.png)
 
 ![image](https://user-images.githubusercontent.com/68937805/149665706-33489d01-268e-476e-bdb6-8dbbd6b48475.png)
-## Day 4: January 4th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day04)
+## Day 4: June 4th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day04)
 Today's Progress : Pandas 100 Common Commands [Huge List Dont memorise keep the Excel Handy](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/raw/main/day04/pandas-100%20Common%20Commands.xlsx)
-## Day 5: January 5th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day05)
+## Day 5: June 5th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day05)
 Today's Progress : Understanding the Lasso(L1) and Ridge(L2) Regression.
 ![image](https://user-images.githubusercontent.com/68937805/149667749-3010fa28-f3eb-45d8-b5de-77d48081625f.png)
 ![image](https://user-images.githubusercontent.com/68937805/149669159-520cd443-81ca-4fa5-bc07-107827c14a7c.png)
-## Day 6: January 6th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day06)
+## Day 6: June 6th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day06)
 Today's Progress : Understanding Accuracy,Precession,Recall
 Let's Assume I have a trained a bot to allow only Dogs to Dog show which is standing near the entrence of the event.
 
@@ -51,30 +51,30 @@ new dog comes chances are thre it make it to the show.
 ![image](https://user-images.githubusercontent.com/68937805/149671574-51f754f2-62fc-40a6-9100-e238606da9e4.png)
 ![image](https://user-images.githubusercontent.com/68937805/149671927-702a2074-2298-46c5-bf59-d2fd78bc978f.png)
 
-## Day 7: January 7th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day07)
+## Day 7: June 7th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day07)
 Today's Progress : Understanding Confusion Matrix
 ![image](https://user-images.githubusercontent.com/68937805/151693586-3c21fb08-9061-480b-99e3-8c246a5d5b6a.png)
 ![image](https://user-images.githubusercontent.com/68937805/151703184-d7f90354-2a7a-4703-b33b-edf3d8507373.png)
 
-## Day 8: January 8th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day08)
+## Day 8: June 8th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day08)
 Today's Progress : Understanding ROC curve
 ![image](https://user-images.githubusercontent.com/68937805/151710265-552a87eb-921e-4b91-bd51-88795877a04d.png)
 
-## Day 9: January 9th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day09)
+## Day 9: June 9th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day09)
 Today's Progress : Decision Tree
 ![image](https://user-images.githubusercontent.com/68937805/152678899-ffff20df-7b68-40f6-963e-1ddda5948835.png)
 ![image](https://user-images.githubusercontent.com/68937805/152693657-cfd96dc3-1e48-4950-953d-1e0b16b01512.png)
 ![image](https://user-images.githubusercontent.com/68937805/152694407-2c583e75-67ba-4c95-b519-7c584f910d0d.png)
-## Day 10: January 10th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day10)
+## Day 10: June 10th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day10)
 Today's Progress : Information Gain
 ![image](https://user-images.githubusercontent.com/68937805/152720729-de3bd647-07f8-4332-81d5-bd7e17bb18ee.png)
-## Day 11: January 11th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day11)
+## Day 11: June 11th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day11)
 Today's Progress : Gini Impurity Defination & Calculation
 ![image](https://user-images.githubusercontent.com/68937805/152693657-cfd96dc3-1e48-4950-953d-1e0b16b01512.png)
 ![image](https://user-images.githubusercontent.com/68937805/152913807-2da032a4-741a-4f71-aea6-682da9c5c35b.png)
-## Day 12: January 12th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day12)
+## Day 12: June 12th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day12)
 Today's Progress : Information Gain, Entropy & Gini Computation in Python
-## Day 13: January 13th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day13)
+## Day 13: June 13th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day13)
 Today's Progress : Decision Tree Algorithm [Decision Tree Algorithm Details](https://medium.com/@sunils0506/decision-tree-types-metrics-dc9b97150f8d)
-## Day 14: January 14th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day14)
+## Day 14: June 14th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day14)
 Today's Progress : Ensemble Methods
