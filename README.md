@@ -78,3 +78,5 @@ Today's Progress : Information Gain, Entropy & Gini Computation in Python
 Today's Progress : Decision Tree Algorithm [Decision Tree Algorithm Details](https://medium.com/@sunils0506/decision-tree-types-metrics-dc9b97150f8d)
 ## Day 14: June 14th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day14)
 Today's Progress : Ensemble Methods
+## Day 15: June 15th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day15)
+Today's Progress : Time series forcasting explained
