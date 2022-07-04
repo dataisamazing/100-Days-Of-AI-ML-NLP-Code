@@ -81,4 +81,7 @@ Today's Progress : Ensemble Methods
 ## Day 15: June 15th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day15)
 Today's Progress : Time series forcasting explained
 ![image](https://user-images.githubusercontent.com/68937805/177090610-5f5b7791-0736-4416-99c4-8f2a2c33b3f8.png)
-
+## Day 15: June 16th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day16)
+Today's Progress : Principal component analysis(PCA)
+![image](https://user-images.githubusercontent.com/68937805/177104868-b3521aca-8220-4dfa-aad1-d253564e80ca.png)
+image credit-devopedia
