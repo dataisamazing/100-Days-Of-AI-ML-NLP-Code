@@ -87,3 +87,5 @@ Today's Progress : Principal component analysis(PCA)
 image credit-devopedia
 ## Day 17: June 17th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day17)
 Today's Progress : FeatureEngineering & Cross Validation Techniques
+## Day 18: June 18th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day18)
+Today's Progress : Loss Function
