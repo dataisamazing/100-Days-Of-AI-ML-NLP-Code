@@ -85,3 +85,5 @@ Today's Progress : Time series forcasting explained
 Today's Progress : Principal component analysis(PCA)
 ![image](https://user-images.githubusercontent.com/68937805/177104868-b3521aca-8220-4dfa-aad1-d253564e80ca.png)
 image credit-devopedia
+## Day 17: June 17th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day17)
+Today's Progress : FeatureEngineering & Cross Validation Techniques
