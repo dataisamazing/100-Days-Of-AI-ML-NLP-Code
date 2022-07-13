@@ -99,3 +99,7 @@ Today's Progress : Basics of NLP
 NLP- Tokenizing Sentences, Tokenizing words, Stemming ,Lemmatization ,Bag of words (BOW),TF-IDF ,
 Classifying the message using Bag of words & TFIDF technique & Word2Vec
 ![image](https://user-images.githubusercontent.com/68937805/178698570-13398816-2eda-42d7-a11d-16f474d0a727.png)
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/68937805/178700999-08d2dc1b-9d88-46bd-a60e-a5d5c15f1af1.png)
