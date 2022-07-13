@@ -110,6 +110,8 @@ Classifying the message using Bag of words & TFIDF technique & Word2Vec
 Today's Progress : Support vector Machine(SVM) & Principal Component Analysis (PCA)
 ## Day 23: June 23rd, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day23)
 Today's Progress : GridSearchCV
+When it comes to iteratively building machine learning models, GridSearchCv is one of your best friends. It is a class object from the sklearn.model_selection library that condenses what would be the tedious process that is tuning the hyperparameters of a machine learning model into just a few lines of code.
+Refer:- https://medium.com/@ericdnbn/the-gift-that-is-gridsearchcv-a-tutorial-e2080f03b62d
 
 ![image](https://user-images.githubusercontent.com/68937805/178729156-8528ff92-7869-47b1-82b5-7a954c1aa429.png)
 -----------------------------------------------------------------------------------------------------------------------------
