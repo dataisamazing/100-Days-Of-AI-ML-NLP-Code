@@ -94,3 +94,7 @@ Today's Progress : Loss Function
 Today's Progress : Handle Imbalanced Data
 ## Day 20: June 20th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day20)
 Today's Progress : Outliers Detections and Treatment
+## Day 21: June 20th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day21)
+Today's Progress : Basics of NLP
+NLP- Tokenizing Sentences, Tokenizing words, Stemming ,Lemmatization ,Bag of words (BOW),TF-IDF ,
+Classifying the message using Bag of words & TFIDF technique & Word2Vec
