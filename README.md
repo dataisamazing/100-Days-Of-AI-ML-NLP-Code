@@ -110,4 +110,5 @@ Classifying the message using Bag of words & TFIDF technique & Word2Vec
 Today's Progress : Support vector Machine(SVM) & Principal Component Analysis (PCA)
 ## Day 23: June 23rd, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day23)
 Today's Progress : GridSearchCV
+
 ![image](https://user-images.githubusercontent.com/68937805/178729156-8528ff92-7869-47b1-82b5-7a954c1aa429.png)
