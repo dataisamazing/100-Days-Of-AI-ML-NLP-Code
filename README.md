@@ -104,3 +104,5 @@ Classifying the message using Bag of words & TFIDF technique & Word2Vec
 ![image](https://user-images.githubusercontent.com/68937805/178701286-51e314e5-226c-46af-9c0c-81303d0dbe46.png)
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/68937805/178702563-2bc64067-0760-4396-8fe6-457199993d32.png)
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/68937805/178703493-93e44bd8-5071-49b8-888d-30727c9f5e10.png)
