@@ -120,4 +120,6 @@ Refer:- https://medium.com/@ericdnbn/the-gift-that-is-gridsearchcv-a-tutorial-e2
 ![image](https://user-images.githubusercontent.com/68937805/178729156-8528ff92-7869-47b1-82b5-7a954c1aa429.png)
 -----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/68937805/178730181-51f134cf-4e85-42a2-a563-7f11829afd31.png)
+## Day 24: June 24th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day24)
+Today's Progress : Market Basket analysis ,Building Recommendation system
 
