@@ -124,3 +124,7 @@ Refer:- https://medium.com/@ericdnbn/the-gift-that-is-gridsearchcv-a-tutorial-e2
 Today's Progress : Market Basket analysis ,Building Recommendation system
 ## Day 25: June 25th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day25)
 Today's Progress : Statistics
+## Day 26: June 26th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day26)
+Today's Progress : Statistical Tests [One sample t-test, Chi square test, Correlation,ANNOVA Test, Two sample T test , Paired sample T test]
+![image](https://user-images.githubusercontent.com/68937805/179393003-0aef3d6f-91a2-4665-ae30-b33709e68830.png)
+
