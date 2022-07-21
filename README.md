@@ -134,6 +134,7 @@ Today's Progress : Bayes Theorem
 Bayes Formula:-
 
 ![image](https://user-images.githubusercontent.com/68937805/180227040-034a730b-2b20-48fa-ad44-edd40ba7bb86.png)
+
 Example:-
 ![image](https://user-images.githubusercontent.com/68937805/180227440-ae3f7981-63df-4c78-86aa-885b4e0aeb39.png)
 
