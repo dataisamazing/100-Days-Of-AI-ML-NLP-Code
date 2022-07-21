@@ -131,7 +131,8 @@ Today's Progress : Statistics-Hypothesis Testing [One sample t-test, Chi square 
 
 ## Day 27: June 27th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day27)
 Today's Progress : Bayes Theorem 
-Bayes Formla:-
+Bayes Formula:-
+
 ![image](https://user-images.githubusercontent.com/68937805/180227040-034a730b-2b20-48fa-ad44-edd40ba7bb86.png)
 Example:-
 ![image](https://user-images.githubusercontent.com/68937805/180227440-ae3f7981-63df-4c78-86aa-885b4e0aeb39.png)
