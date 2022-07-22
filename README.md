@@ -139,3 +139,8 @@ Example:-
 
 ![image](https://user-images.githubusercontent.com/68937805/180227440-ae3f7981-63df-4c78-86aa-885b4e0aeb39.png)
 
+## Day 28: June 28th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day28)
+Today's Progress : NLP Different Vectoriser Methods
+
+![image](https://user-images.githubusercontent.com/68937805/180393224-af40b322-467d-4ac1-876d-b47af0437f27.png)
+
