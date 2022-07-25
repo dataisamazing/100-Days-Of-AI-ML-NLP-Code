@@ -141,8 +141,8 @@ Example:-
 
 ## Day 28: June 28th, 2022 [->](https://github.com/dataisamazing/100-Days-Of-AI-ML-NLP-Code/tree/main/day28)
 Today's Progress : NLP Different Vectoriser Methods
-1. BAG OF WORDS(BOW):-
+```1. BAG OF WORDS(BOW):-```
 ![image](https://user-images.githubusercontent.com/68937805/180393224-af40b322-467d-4ac1-876d-b47af0437f27.png)
-2. TF-IDF:-
+```2. TF-IDF:-```
 ![image](https://user-images.githubusercontent.com/68937805/180675292-ca11523c-9a6d-4fc6-a3ad-0607aa14e3f2.png)
 
